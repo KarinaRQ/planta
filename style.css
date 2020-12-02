@@ -1,0 +1,16 @@
+h1{
+  color:#292929; 
+  font-family:"arial";
+  border-style: none none solid;
+  border-color:#cccccc;
+}
+.destacado{
+  color:#292929; 
+  font-family:"verdana";
+  font-size:12px;
+  margin-top: 0px;
+}
+img{
+  padding: 0px 10px 10px 10px;
+}
+
